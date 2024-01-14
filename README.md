@@ -17,7 +17,7 @@ Primeiramente certifique-se de que possui o docker e o docker compose instalado 
 
 Já para instalar o docker compose acesse [Docker Compose](https://github.com/docker/compose).
 
-Com o docker e o docker compose instalados você deve clonar o repositório. Para isso basta seguir artigo [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=aud-396128415587:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAhomtBhDgARIsABcaYyk4lBV3raNZ5lwZxwg_6WDWrgMN9njNnww9MI1rKVQUWDZ4sRNlgCcaAifMEALw_wcB).
+Com o docker e o docker compose instalados você deve clonar o repositório. Para isso basta seguir o artigo [Clonando um repositório com Git e GitHub](https://www.alura.com.br/artigos/clonando-repositorio-git-github?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=aud-396128415587:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAhomtBhDgARIsABcaYyk4lBV3raNZ5lwZxwg_6WDWrgMN9njNnww9MI1rKVQUWDZ4sRNlgCcaAifMEALw_wcB).
 
 Abra o terminal vá até a pasta do projeto e digite o comando 
 
