@@ -1,0 +1,10 @@
+vendor/
+
+var/
+
+# Ignorar o arquivo CSV
+auction_data.csv
+
+# Ignorar o arquivo de log
+log_auctions.txt
+
