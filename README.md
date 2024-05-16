@@ -40,4 +40,14 @@ docker-compose run php php bin/crawler.php
 <br/>
 
 ## ✒️ Autores
+<a href="https://www.linkedin.com/in/viniciusgonzagacavalcante/">
+	<!-- <img src="https://avatars.githubusercontent.com/u/76957963?v=4" style="border-radius: 50%;" width="100px;" alt=""/> -->
+	<img src="https://github.com/ViniciusRodrigues10/real-time-polls/assets/76957963/150fca30-7a34-46a6-826e-74b812fc4329" style="border-radius: 50%;" width="100px;" alt=""/>
+<br />
+	
+<a href="https://www.linkedin.com/in/viniciusgonzagacavalcante/" title="vinicius-linkedin">
+  <sub><b>Vinícius Rodrigues</b></sub>
+</a>
+
+[![Gmail Badge](https://img.shields.io/badge/-vinicius.gonzaga-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:vinicius.gonzaga@academico.ifpb.edu.br)
 * **Desenvolvedor** - *Código, documentação* - [Vinícius Rodrigues](https://github.com/ViniciusRodrigues10)
