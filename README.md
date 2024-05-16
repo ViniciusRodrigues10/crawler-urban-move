@@ -1,18 +1,17 @@
 # Crawler Urban Move
-
 Este projeto consiste em um script em PHP que realiza a extração de dados de leilões do site [https://amleiloeiro.com.br/](https://amleiloeiro.com.br/). Utilizando técnicas de web crawler com cURL e DOMDocument, o script percorre as páginas em busca de informações relevantes sobre lotes, como datas e valores de primeiro e segundo leilão. Os dados são organizados e adicionados a um arquivo CSV para manter um registro estruturado. Além disso, o script registra mensagens de log para acompanhar o processo de extração. Recomenda-se o uso do ambiente Docker para facilitar a execução do script, proporcionando isolamento e portabilidade.
+<br/>
 
 ## 🚀 Começando
-
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+<br/>
 
 ### 📋 Pré-requisitos
-
   - 🐳 Docker 
   - 🐳 Docker compose 
+<br/>
 
 ### 🔧 Instalação
-
 Primeiramente certifique-se de que possui o docker e o docker compose instalado em sua máquina. Caso não possua acesse o [Guia rápido do WSL2 + Docker](https://github.com/codeedu/wsl2-docker-quickstart) para instalar o docker.
 
 Já para instalar o docker compose acesse [Docker Compose](https://github.com/docker/compose).
@@ -30,15 +29,15 @@ Agora você já está pronto para utilizar o código. Para rodar o crawler utili
 ```
 docker-compose run php php bin/crawler.php
 ```
+<br/>
 
 ## 🛠️ Construído com
-
 * `PHP 8.0`
 * `cURL (Client URL)`
 * `DOMDocument (PHP)`
 * `Docker`
 * `Git`
+<br/>
 
 ## ✒️ Autores
-
 * **Desenvolvedor** - *Código, documentação* - [Vinícius Rodrigues](https://github.com/ViniciusRodrigues10)
