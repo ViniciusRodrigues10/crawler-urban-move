@@ -11,7 +11,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
   - 🐳 Docker compose 
 <br/>
 
-### 🔧 Instalação
+## 🔧 Instalação
 Primeiramente certifique-se de que possui o docker e o docker compose instalado em sua máquina. Caso não possua acesse o [Guia rápido do WSL2 + Docker](https://github.com/codeedu/wsl2-docker-quickstart) para instalar o docker.
 
 Já para instalar o docker compose acesse [Docker Compose](https://github.com/docker/compose).
