@@ -50,4 +50,5 @@ docker-compose run php php bin/crawler.php
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.gonzaga-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:vinicius.gonzaga@academico.ifpb.edu.br)
-* **Desenvolvedor** - *Código, documentação* - [Vinícius Rodrigues](https://github.com/ViniciusRodrigues10)
+
+**Desenvolvedor** - *Código, documentação* - [Vinícius Rodrigues](https://github.com/ViniciusRodrigues10)
